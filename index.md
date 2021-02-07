@@ -21,7 +21,7 @@
 `右クリックで[埋め込みコードをコピー]で取得したコードを張り付ける､画面サイズも指定できる`
 　  
 ・GMapの貼り付け  
-　<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d33736.360160150594!2d135.88720593615938!3d34.97062140386935!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sjp!4v1612188741400!5m2!1sja!2sjp" width="533" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+　<iframe src="<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d79.51201146200765!2d135.90337642797454!3d34.973322686705096!2m3!1f88.54625550660785!2f68.58655335379285!3f0!3m2!1i1024!2i768!4f35!5e1!3m2!1sja!2sjp!4v1612709296130!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>" width="533" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
  　`inframe codeでサイズは変更可能` 
 　  
 ・天気図の貼り付け  
