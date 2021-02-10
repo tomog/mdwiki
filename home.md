@@ -1,6 +1,3 @@
 <link href="markdown.css" rel="stylesheet"></link>
-# home
-
-111111
-222222
-333333
+# 物言えば唇寒し秋の風
+[物言えば唇寒し秋の風](諺.md)
