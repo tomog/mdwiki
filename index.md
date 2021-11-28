@@ -38,7 +38,4 @@
 
 ------------
 
-<img src=https://weblio.hs.llnwd.net/e7/img/dict/sgkdj/images/103070.jpg width=320 height=240>
-</span>
-</font>
-</html>
+<img src=https://weblio.hs.llnwd.net/e7/img/dict/sgkdj/images/103070.jpg width=320 height=240>  
