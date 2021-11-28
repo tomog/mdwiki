@@ -26,5 +26,14 @@
 　  
 ・天気図の貼り付け  
 　<iframe width="533" height="300" src="https://embed.windy.com/embed2.html?lat=33.651&lon=134.077&detailLat=26.804&detailLon=133.365&width=400&height=300&zoom=5&level=surface&overlay=rain&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=true&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
- 　`inframe codeでサイズは変更可能` 
+ 　`inframe codeでサイズは変更可能`   
 
+------------  
+### メートルの定義 ###
+
+　　　1/299,792,458 秒に光が真空中を伝わる距離  
+　　　子午線の 1/10,000,000  
+　　　=  10,000,000/90 =                                                                            (緯度1°の距離) = 111.111 m  
+　　　6378.13659*2*3.14159265/4=10,018.75352 m(経度1~90°)/90= (経度1°の距離) = 113.1948 m (赤道上)  
+
+------------
