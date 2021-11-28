@@ -37,3 +37,8 @@
 　　　6378.13659*2*3.14159265/4=10,018.75352 m(経度1~90°)/90= (経度1°の距離) = 113.1948 m (赤道上 )  
 
 ------------
+
+<img src=https://weblio.hs.llnwd.net/e7/img/dict/sgkdj/images/103070.jpg width=320 height=240>
+</span>
+</font>
+</html>
