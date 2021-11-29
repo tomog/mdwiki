@@ -22,7 +22,7 @@
 　  
 ・GMapの貼り付け  
 　<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d4141.244122463077!2d135.90279213472155!3d34.97291449894395!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sjp!4v1612709954619!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
- 　`inframe codeでサイズは変更可能`   
+ 　`inframe codeでサイズは変更可能`
 　  
 ・天気図の貼り付け  
 
