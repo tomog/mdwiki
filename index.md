@@ -43,3 +43,4 @@
 　　　　　　　40,000/(2*3.1415...)=6,366.1977　(子午線が10,000Kmだから)
 
 　　　　　　　<img src=https://weblio.hs.llnwd.net/e7/img/dict/sgkdj/images/103070.jpg width=320 height=240>  
+            ![](https://github.com/tomog/mdwiki/blob/main/img/%E5%9C%B0%E7%90%83.png?raw=true)
