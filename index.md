@@ -54,5 +54,3 @@
 　　　　　∴∠Rは 90-30=60  
 　　　　　結論 最大範囲は 60度  
 　　　　　　　![](https://github.com/tomog/mdwiki/blob/main/img/%E5%9C%B0%E7%90%83.png?raw=true)  
-
-------------
