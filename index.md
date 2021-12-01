@@ -45,7 +45,7 @@
 　　　　　　　<img src=https://weblio.hs.llnwd.net/e7/img/dict/sgkdj/images/103070.jpg width=320 height=240>.  
 ------------
 
-#### 地球上の任意の点(a)から見える最大範囲(地平線) ####  
+<b>地球上の任意の点(a)から見える最大範囲(地平線)</b>  
 　　　[例 地球半径の２倍]  
 　　　　　∠aは arcsin(2r/r) =30  
 　　　　　∴∠Rは 90-30=60  
