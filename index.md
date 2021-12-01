@@ -44,5 +44,14 @@
 　　　　　　　40,000/(2*3.1415...)=6,366.1977　(子午線が10,000Kmだから.)
 
 　　　　　　　<img src=https://weblio.hs.llnwd.net/e7/img/dict/sgkdj/images/103070.jpg width=320 height=240>.  
-       
-![](https://github.com/tomog/mdwiki/blob/main/img/%E5%9C%B0%E7%90%83.png?raw=true)
+------------
+
+#### 地球上の任意の点(a)から見える最大範囲(地平線) ####  
+　　　[例 地球半径の２倍]  
+　　　　　∠aは arcsin(2r/r) =30  
+　　　　　∴∠Rは 90-30=60  
+　　　　　結論 最大範囲は 60度
+
+　　　　![](https://github.com/tomog/mdwiki/blob/main/img/%E5%9C%B0%E7%90%83.png?raw=true)  
+
+------------
