@@ -29,8 +29,8 @@
 　<iframe width="533" height="300" src="https://embed.windy.com/embed2.html?lat=33.651&lon=134.077&detailLat=26.804&detailLon=133.365&width=400&height=300&zoom=5&level=surface&overlay=rain&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=true&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
  　`inframe codeでサイズは変更可能`   
 
-------------  
-
+------------
+  
 ### メートルの定義 ###
 
 　　　・1/299,792,458 秒に光が真空中を伝わる距離  
@@ -39,14 +39,14 @@
 　　　　　[参考] 6378.13659×2×3.14159265/4=10,018.75352 Km (経度1~90°)  
 　　　　　　　　∴(経度1°の距離) = 113.1948 Km (赤道上)  
 
-------------  
-
+------------
+  
 地球赤道半径　6378.13659 Km (理科年表)  
 地球極半径　　6356.775　 Km (理科年表)  
 　　　　　　　40,000/(2*3.1415...)=6,366.1977　(子午線が10,000Kmだから.)
 　　　　　　　<img src=https://weblio.hs.llnwd.net/e7/img/dict/sgkdj/images/103070.jpg width=320 height=240>.  
 ------------
-
+  
 <b>地球上の任意の点(a)から見える最大範囲(地平線)</b>  
 　　　[例 地球半径の２倍]  
 　　　　　∠aは arcsin(2r/r) =30  
