@@ -43,9 +43,9 @@
   
  地球赤道半径　6378.13659 Km (理科年表)  
  地球極半径　　6356.775　 Km (理科年表)  
-　　　　　　　40,000/(2*3.1415...)=6,366.1977　(子午線が10,000Kmだから.)  
+　　　　　　　40,000/(2*3.1415...)=6,366.1977　(子午線が10,000Kmだから)  
        
-　　　　　　　<img src=https://weblio.hs.llnwd.net/e7/img/dict/sgkdj/images/103070.jpg width=320 height=240>.  
+　　　　　　　<img src=https://weblio.hs.llnwd.net/e7/img/dict/sgkdj/images/103070.jpg width=320 height=240>  
 ------------
   
 <b>地球上の任意の点(a)から見える最大範囲(地平線)</b>  
