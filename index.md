@@ -44,6 +44,7 @@
  地球赤道半径　6378.13659 Km (理科年表)  
  地球極半径　　6356.775　 Km (理科年表)  
 　　　　　　　40,000/(2*3.1415...)=6,366.1977　(子午線が10,000Kmだから)  
+       
 　　　　　　　<img src=https://weblio.hs.llnwd.net/e7/img/dict/sgkdj/images/103070.jpg width=320 height=240>  
 
 ------------
@@ -53,4 +54,5 @@
 　　　　　∠aは arcsin(2r/r) =30  
 　　　　　∴∠Rは 90-30=60  
 　　　　　結論 最大範囲は 60度  
+     
 　　　　　　　![](https://github.com/tomog/mdwiki/blob/main/img/%E5%9C%B0%E7%90%83.png?raw=true)  
