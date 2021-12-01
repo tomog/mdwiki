@@ -46,6 +46,7 @@
 　　　　　　　40,000/(2*3.1415...)=6,366.1977　(子午線が10,000Kmだから)  
        
 　　　　　　　<img src=https://weblio.hs.llnwd.net/e7/img/dict/sgkdj/images/103070.jpg width=320 height=240>  
+
 ------------
   
 <b>地球上の任意の点(a)から見える最大範囲(地平線)</b>  
