@@ -3,4 +3,4 @@
 
 [Home](home.md)
 [About](about.md)
-[Download](download.md)
+[Help](hlp.md)
