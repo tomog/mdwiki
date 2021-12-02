@@ -4,3 +4,4 @@
 [Home](home.md)
 [About](about.md)
 [Help](hlp.md)
+[Income](income.md)
