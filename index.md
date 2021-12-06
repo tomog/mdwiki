@@ -28,6 +28,6 @@
 
 ------------
 
-近距離の計算
+<b>近距離の計算</b>
 
 　　　　　　　![](https://github.com/tomog/mdwiki/blob/main/img/%E4%B8%89%E8%A7%92.png?raw=true)  
