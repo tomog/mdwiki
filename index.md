@@ -37,7 +37,7 @@
 
 <b>球面三角法</b>
 
-![](https://github.com/tomog/mdwiki/blob/main/img/k3.jpg?raw=true)
+　　　　　　　![](https://github.com/tomog/mdwiki/blob/main/img/k3.jpg?raw=true)
 
 球面三角法の余弦定理（式１）    
 　　cos(c) = cos(a)cos(b) + sin(a)sin(b)cos(C)   
@@ -55,7 +55,7 @@
 
 - - - - - -
 
-![](https://github.com/tomog/mdwiki/blob/main/img/k31.png?raw=true)  
+　　　　　　　![](https://github.com/tomog/mdwiki/blob/main/img/k31.png?raw=true)  
 
 　　[点uを北極点として、左図を地球にマッピング]
 
