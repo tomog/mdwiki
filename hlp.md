@@ -1,5 +1,3 @@
-# hlp
-
 ## MDwiki Lesson File
 これはMDwikiの練習用ファイル  
 完成したファイルをGitHub[https://tomog.github.io/mdwiki/] にUpLoadしてindex.htmlを開けば完成  
