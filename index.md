@@ -1,6 +1,6 @@
 <!-- <link href="markdown.css" rel="stylesheet"></link> -->
   
-#### <b>メートルの定義</b>  
+## <b>メートルの定義</b>  
 
 　　　・1/299,792,458 秒に光が真空中を伝わる距離  
 　　　・子午線の 1/10,000,000  (1889年)  
@@ -35,7 +35,7 @@
        
 -----
 
-#### <b>球面三角法</b>
+## <b>球面三角法</b>
 
 　　　　　　　![](https://github.com/tomog/mdwiki/blob/main/img/k3.jpg?raw=true)
 
