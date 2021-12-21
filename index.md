@@ -35,7 +35,7 @@
        
 -----
 
-###$ <b>球面三角法</b>
+#### <b>球面三角法</b>
 
 　　　　　　　![](https://github.com/tomog/mdwiki/blob/main/img/k3.jpg?raw=true)
 
