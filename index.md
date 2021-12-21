@@ -39,30 +39,30 @@
 
 　　　　　　　![](https://github.com/tomog/mdwiki/blob/main/img/k3.jpg?raw=true)
 
-球面三角法の余弦定理（式１）    
-　　cos(c) = cos(a)cos(b) + sin(a)sin(b)cos(C)   
+　　　球面三角法の余弦定理（式１）    
+　　　　　cos(c) = cos(a)cos(b) + sin(a)sin(b)cos(C)   
 
-２点間の距離c　(式２）  
-　　c = acos({cos(a)cos(b) + sin(a)sin(b)cos(C)})  
+　　　２点間の距離c　(式２）  
+　　　　　c = acos({cos(a)cos(b) + sin(a)sin(b)cos(C)})  
 
-図１の関係式を緯度・経度で表した場合  
-　　a = π/2 - φ1　(φ1: 点vの緯度[rad])  
-　　b = π/2 - φ2　(φ2: 点wの緯度[rad])  
-　　C = λ2 - λ1 = Δλ (λ1: 点vの経度[rad], λ2: 点wの経度[rad])  
+　　　図１の関係式を緯度・経度で表した場合  
+　　　　　a = π/2 - φ1　(φ1: 点vの緯度[rad])  
+　　　　　b = π/2 - φ2　(φ2: 点wの緯度[rad])  
+　　　　　C = λ2 - λ1 = Δλ (λ1: 点vの経度[rad], λ2: 点wの経度[rad])  
 
-	単位球では、球の中心oとのなす角度[rad]はそのまま、円弧の長さとなる事に注意  
-	→ ex 辺bは、∠uowのなす角度[rad]と同一
+　　　	単位球では、球の中心oとのなす角度[rad]はそのまま、円弧の長さとなる事に注意  
+　　　	→ ex 辺bは、∠uowのなす角度[rad]と同一
 
 - - - - - -
 
 　　　　　　　![](https://github.com/tomog/mdwiki/blob/main/img/k31.png?raw=true)  
 
-　　[点uを北極点として、左図を地球にマッピング]
+　　　　　[点uを北極点として、左図を地球にマッピング]
 
-経度・緯度からの単位球面上の２地点の距離c（式３）  
-　　c = acos(cos(a)cos(b) + sin(a)sin(b)cos(C))  
-　　  = acos(cos(π/2-φ1)cos(π/2-φ2) + sin(π/2-φ1)sin(π/2-φ2)cos(Δλ))  
-　　  = acos(sin(φ1)sin(φ2) + cos(φ1)cos(φ2)cos(Δλ))  
+　　　経度・緯度からの単位球面上の２地点の距離c（式３）  
+　　　　　c = acos(cos(a)cos(b) + sin(a)sin(b)cos(C))  
+　　　　　  = acos(cos(π/2-φ1)cos(π/2-φ2) + sin(π/2-φ1)sin(π/2-φ2)cos(Δλ))  
+　　　　　  = acos(sin(φ1)sin(φ2) + cos(φ1)cos(φ2)cos(Δλ))  
 
-地球上における２点間の距離  
-　　d = Rc
+　　　地球上における２点間の距離  
+　　　　　d = Rc
