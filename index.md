@@ -55,6 +55,7 @@
 - - - - - -
 
 ![](https://github.com/tomog/mdwiki/blob/main/img/k31.png?raw=true)  
+
 　　[点uを北極点として、左図を地球にマッピング]
 
 経度・緯度からの単位球面上の２地点の距離c（式３）  
